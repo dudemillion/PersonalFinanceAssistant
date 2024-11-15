@@ -51,10 +51,9 @@ def expense_prediction():
      next_expense = model.predict(next_month)
      print(f"Based on your past spending, your projected budget for next month is: ${next_expense[0][0]:.2f}. (Mean Absolute Error: ${mae})")
 
-
+print("Hello! Welcome to your Personal Finance Assistant. How can I help?")
 while True:
-    print("Hello! Welcome to your Personal Finance Assistant. How can I help?")
-    choice = int(input("1: Add Expense, 2: View Report, 3: Predict Future Expenses, 4: Exit"))
+    choice = int(input("1: Add Expense, 2: View Report, 3: Predict Future Expenses, 4: Exit, 5: help"))
     if choice == 1:
         expense = input("Alright, How much money have you spent?")
         description = input("What did you spend it on?")
@@ -73,5 +72,7 @@ while True:
     elif choice == 4:
          print("Goodbye!")
          break
+    elif choice == 5:
+         print("This is a finance assistant program. Choosing 1 will allow you to add expenses aka. what you have spent your money on, with 5the data inlcluding how much money, what you spent it on, in what category, and when. Choosing 2 will display all the entries so far in the log. It will also display your monthly and yearly spending. Choosing 3 will take the money you've spent throughout the last months and use that to make a linear regression model that will predict how much your budget will be for the upcoming month. It will also display the mean absolute error is for the calculation.")
     else:
          print("Invalid choice. Please try again.")
