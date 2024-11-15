@@ -1,9 +1,3 @@
-csv
-os
-datetime
-collections
 pandas
 numpy
-sklearn.linear_modeal
-sklearn.model_sleection
-sklearn.metrics
+scikit-learn
