@@ -1,0 +1,961 @@
+Expense,Description,Category,Date
+15,Netflix,Subscriptions,2024-01-01
+15,Netflix,Subscriptions,2024-01-31
+15,Netflix,Subscriptions,2024-03-01
+15,Netflix,Subscriptions,2024-03-31
+15,Netflix,Subscriptions,2024-04-30
+15,Netflix,Subscriptions,2024-05-30
+15,Netflix,Subscriptions,2024-06-29
+15,Netflix,Subscriptions,2024-07-29
+15,Netflix,Subscriptions,2024-08-28
+15,Netflix,Subscriptions,2024-09-27
+15,Netflix,Subscriptions,2024-10-27
+15,Netflix,Subscriptions,2024-11-26
+10,Spotify,Subscriptions,2024-01-01
+10,Spotify,Subscriptions,2024-01-31
+10,Spotify,Subscriptions,2024-03-01
+10,Spotify,Subscriptions,2024-03-31
+10,Spotify,Subscriptions,2024-04-30
+10,Spotify,Subscriptions,2024-05-30
+10,Spotify,Subscriptions,2024-06-29
+10,Spotify,Subscriptions,2024-07-29
+10,Spotify,Subscriptions,2024-08-28
+10,Spotify,Subscriptions,2024-09-27
+10,Spotify,Subscriptions,2024-10-27
+10,Spotify,Subscriptions,2024-11-26
+1500,Rent,Housing,2024-01-01
+1500,Rent,Housing,2024-01-31
+1500,Rent,Housing,2024-03-01
+1500,Rent,Housing,2024-03-31
+1500,Rent,Housing,2024-04-30
+1500,Rent,Housing,2024-05-30
+1500,Rent,Housing,2024-06-29
+1500,Rent,Housing,2024-07-29
+1500,Rent,Housing,2024-08-28
+1500,Rent,Housing,2024-09-27
+1500,Rent,Housing,2024-10-27
+1500,Rent,Housing,2024-11-26
+70,Internet,Utilities,2024-01-01
+70,Internet,Utilities,2024-01-31
+70,Internet,Utilities,2024-03-01
+70,Internet,Utilities,2024-03-31
+70,Internet,Utilities,2024-04-30
+70,Internet,Utilities,2024-05-30
+70,Internet,Utilities,2024-06-29
+70,Internet,Utilities,2024-07-29
+70,Internet,Utilities,2024-08-28
+70,Internet,Utilities,2024-09-27
+70,Internet,Utilities,2024-10-27
+70,Internet,Utilities,2024-11-26
+200,Car Insurance,Insurance,2024-01-01
+200,Car Insurance,Insurance,2024-01-31
+200,Car Insurance,Insurance,2024-03-01
+200,Car Insurance,Insurance,2024-03-31
+200,Car Insurance,Insurance,2024-04-30
+200,Car Insurance,Insurance,2024-05-30
+200,Car Insurance,Insurance,2024-06-29
+200,Car Insurance,Insurance,2024-07-29
+200,Car Insurance,Insurance,2024-08-28
+200,Car Insurance,Insurance,2024-09-27
+200,Car Insurance,Insurance,2024-10-27
+200,Car Insurance,Insurance,2024-11-26
+512,Tuition Fee,Education,2024-03-20
+3291,Credit Card Payment,Banking(Debt/Savings),2024-05-14
+269,Donation,Other,2024-01-01
+259,Water Bill,Utilities,2024-02-15
+288,Health Insurance,Insurance,2024-01-23
+813,Loan Payment,Banking(Debt/Savings),2024-09-13
+60,Roblox,Entertainment,2024-03-31
+445,Groceries,Food,2024-08-22
+791,Car Insurance,Insurance,2024-12-30
+481,Life Insurance,Insurance,2024-11-28
+173,Internet,Utilities,2024-12-27
+749,Credit Card Payment,Banking(Debt/Savings),2024-12-23
+32,Tuition Fee,Education,2024-01-02
+249,Donation,Other,2024-01-03
+2499,Home Maintenance,Housing,2024-08-06
+3149,Loan Payment,Banking(Debt/Savings),2024-05-14
+76,Internet,Utilities,2024-03-12
+177,Spotify,Entertainment,2024-10-27
+422,Donation,Other,2024-03-31
+146,Internet,Utilities,2024-05-21
+36,Coffee,Food,2024-01-04
+129,Miscellaneous,Other,2024-01-18
+180,Savings Deposit,Banking(Debt/Savings),2024-10-09
+280,Train Ticket,Transportation,2024-10-29
+153,Donation,Other,2024-08-23
+287,Water Bill,Utilities,2024-08-06
+3589,Loan Payment,Banking(Debt/Savings),2024-05-10
+34,Gym Membership,Subscriptions,2024-05-30
+439,Groceries,Food,2024-04-19
+281,Donation,Other,2024-05-13
+364,Gift,Other,2024-05-11
+672,Textbooks,Education,2024-06-09
+54,Electricity Bill,Utilities,2024-12-01
+197,Netflix,Entertainment,2024-07-04
+170,Cinema Tickets,Entertainment,2024-01-03
+60,Gym Membership,Subscriptions,2024-06-02
+457,Gift,Other,2024-07-19
+104,Netflix,Entertainment,2024-11-13
+105,Internet,Utilities,2024-09-07
+2940,Rent,Housing,2024-04-19
+2005,Rent,Housing,2024-06-03
+27,Amazon Prime,Subscriptions,2024-11-26
+78,Electricity Bill,Utilities,2024-10-16
+2222,Loan Payment,Banking(Debt/Savings),2024-09-11
+2463,Rent,Housing,2024-10-30
+18,Restaurant,Food,2024-03-06
+49,Uber,Transportation,2024-06-05
+4868,Loan Payment,Banking(Debt/Savings),2024-05-13
+2489,Loan Payment,Banking(Debt/Savings),2024-04-24
+873,Life Insurance,Insurance,2024-03-27
+14,Uber,Transportation,2024-02-12
+643,Tuition Fee,Education,2024-04-12
+52,Groceries,Food,2024-03-03
+1221,Rent,Housing,2024-01-23
+38,Spotify,Entertainment,2024-01-24
+43,Spotify,Entertainment,2024-07-09
+97,Internet,Utilities,2024-12-18
+199,Electricity Bill,Utilities,2024-10-19
+88,Overwatch 2,Entertainment,2024-07-13
+68,Hulu,Subscriptions,2024-08-08
+367,Miscellaneous,Other,2024-07-07
+215,Water Bill,Utilities,2024-11-27
+78,Roblox,Entertainment,2024-06-24
+402,Health Insurance,Insurance,2024-03-12
+65,Fast Food,Food,2024-05-01
+14,Roblox,Entertainment,2024-09-17
+38,Donation,Other,2024-01-22
+406,Donation,Other,2024-09-18
+445,Donation,Other,2024-03-23
+416,Groceries,Food,2024-07-11
+70,Amazon Prime,Subscriptions,2024-03-30
+8,Amazon Prime,Subscriptions,2024-11-17
+651,Health Insurance,Insurance,2024-10-18
+255,Electricity Bill,Utilities,2024-03-07
+19,Car Maintenance,Transportation,2024-11-10
+757,Home Maintenance,Housing,2024-01-18
+4121,Credit Card Payment,Banking(Debt/Savings),2024-02-25
+260,Fast Food,Food,2024-02-02
+64,Gym Membership,Subscriptions,2024-12-13
+353,Donation,Other,2024-06-07
+306,Restaurant,Food,2024-11-26
+4219,Credit Card Payment,Banking(Debt/Savings),2024-08-19
+163,Gift,Other,2024-04-26
+52,Train Ticket,Transportation,2024-11-13
+2954,Loan Payment,Banking(Debt/Savings),2024-05-01
+731,Tuition Fee,Education,2024-10-20
+183,Car Maintenance,Transportation,2024-09-09
+99,Hulu,Subscriptions,2024-07-14
+228,Life Insurance,Insurance,2024-07-09
+195,Miscellaneous,Other,2024-03-10
+4997,Savings Deposit,Banking(Debt/Savings),2024-10-30
+328,Miscellaneous,Other,2024-09-16
+2662,Mortgage,Housing,2024-03-31
+156,Electricity Bill,Utilities,2024-09-27
+944,Health Insurance,Insurance,2024-09-16
+270,Internet,Utilities,2024-02-16
+173,Cinema Tickets,Entertainment,2024-07-24
+259,Uber,Transportation,2024-08-05
+29,Amazon Prime,Subscriptions,2024-09-26
+29,Hulu,Subscriptions,2024-02-19
+975,Tuition Fee,Education,2024-05-08
+553,Car Insurance,Insurance,2024-02-05
+2828,Rent,Housing,2024-02-05
+92,Amazon Prime,Subscriptions,2024-06-15
+83,Coffee,Food,2024-10-20
+116,Electricity Bill,Utilities,2024-04-05
+70,Hulu,Subscriptions,2024-03-06
+123,Online Course,Education,2024-03-30
+73,Water Bill,Utilities,2024-08-30
+823,Health Insurance,Insurance,2024-10-27
+823,Rent,Housing,2024-09-06
+2643,Home Maintenance,Housing,2024-09-26
+861,Rent,Housing,2024-05-28
+56,Donation,Other,2024-05-14
+95,Water Bill,Utilities,2024-08-15
+476,Miscellaneous,Other,2024-10-06
+57,Groceries,Food,2024-02-15
+2537,Rent,Housing,2024-06-18
+65,Cinema Tickets,Entertainment,2024-04-26
+209,Uber,Transportation,2024-03-30
+691,Tuition Fee,Education,2024-04-22
+797,Savings Deposit,Banking(Debt/Savings),2024-12-30
+637,Car Insurance,Insurance,2024-01-31
+2740,Rent,Housing,2024-12-11
+366,Fast Food,Food,2024-08-31
+224,Coffee,Food,2024-03-15
+832,Life Insurance,Insurance,2024-07-12
+436,Coffee,Food,2024-12-23
+99,Tuition Fee,Education,2024-03-20
+17,Amazon Prime,Subscriptions,2024-01-12
+26,Hulu,Subscriptions,2024-04-27
+966,Health Insurance,Insurance,2024-01-08
+267,Groceries,Food,2024-01-09
+715,Life Insurance,Insurance,2024-10-28
+309,Miscellaneous,Other,2024-06-17
+889,Health Insurance,Insurance,2024-03-15
+879,Car Insurance,Insurance,2024-09-20
+73,Water Bill,Utilities,2024-03-25
+186,Uber,Transportation,2024-07-22
+58,Gym Membership,Subscriptions,2024-11-26
+176,Gift,Other,2024-04-14
+499,Textbooks,Education,2024-04-03
+557,Car Insurance,Insurance,2024-11-19
+118,Netflix,Entertainment,2024-08-25
+2781,Mortgage,Housing,2024-06-16
+598,Online Course,Education,2024-07-18
+61,Online Course,Education,2024-01-30
+2919,Home Maintenance,Housing,2024-10-14
+140,Electricity Bill,Utilities,2024-03-02
+90,Amazon Prime,Subscriptions,2024-09-28
+68,Gift,Other,2024-06-01
+2549,Rent,Housing,2024-03-26
+180,Car Insurance,Insurance,2024-02-29
+158,Train Ticket,Transportation,2024-03-24
+1930,Home Maintenance,Housing,2024-01-13
+865,Life Insurance,Insurance,2024-10-25
+171,Overwatch 2,Entertainment,2024-09-12
+70,Hulu,Subscriptions,2024-03-13
+828,Car Insurance,Insurance,2024-04-09
+28,Netflix,Entertainment,2024-12-28
+446,Online Course,Education,2024-05-18
+181,Roblox,Entertainment,2024-09-27
+298,Groceries,Food,2024-06-07
+2723,Mortgage,Housing,2024-02-02
+2910,Mortgage,Housing,2024-12-24
+126,Online Course,Education,2024-07-16
+906,Textbooks,Education,2024-07-29
+97,Netflix,Entertainment,2024-02-05
+3737,Credit Card Payment,Banking(Debt/Savings),2024-03-12
+37,Overwatch 2,Entertainment,2024-08-12
+358,Textbooks,Education,2024-07-13
+66,Amazon Prime,Subscriptions,2024-01-27
+116,Overwatch 2,Entertainment,2024-11-25
+97,Hulu,Subscriptions,2024-07-10
+164,Electricity Bill,Utilities,2024-10-26
+576,Textbooks,Education,2024-11-16
+248,Internet,Utilities,2024-06-05
+158,Netflix,Entertainment,2024-11-11
+855,Life Insurance,Insurance,2024-09-23
+159,Water Bill,Utilities,2024-06-23
+73,Roblox,Entertainment,2024-08-18
+946,Tuition Fee,Education,2024-08-24
+67,Gym Membership,Subscriptions,2024-01-14
+1549,Mortgage,Housing,2024-08-31
+235,Water Bill,Utilities,2024-06-13
+232,Gas,Transportation,2024-06-19
+55,Amazon Prime,Subscriptions,2024-02-08
+757,Online Course,Education,2024-02-03
+4383,Loan Payment,Banking(Debt/Savings),2024-09-09
+2305,Home Maintenance,Housing,2024-02-10
+2255,Savings Deposit,Banking(Debt/Savings),2024-11-08
+62,Spotify,Entertainment,2024-02-07
+91,Cinema Tickets,Entertainment,2024-11-24
+257,Tuition Fee,Education,2024-11-04
+71,Textbooks,Education,2024-12-06
+218,Electricity Bill,Utilities,2024-03-11
+323,Restaurant,Food,2024-02-28
+406,Life Insurance,Insurance,2024-10-01
+3076,Loan Payment,Banking(Debt/Savings),2024-07-03
+250,Donation,Other,2024-05-30
+324,Tuition Fee,Education,2024-08-31
+142,Overwatch 2,Entertainment,2024-03-24
+51,Miscellaneous,Other,2024-03-11
+191,Car Maintenance,Transportation,2024-07-19
+4112,Loan Payment,Banking(Debt/Savings),2024-06-27
+252,Internet,Utilities,2024-06-28
+806,Textbooks,Education,2024-04-06
+213,Gas,Transportation,2024-12-08
+1176,Rent,Housing,2024-10-07
+183,Overwatch 2,Entertainment,2024-08-11
+278,Gas,Transportation,2024-03-06
+22,Train Ticket,Transportation,2024-02-26
+378,Fast Food,Food,2024-01-19
+2215,Home Maintenance,Housing,2024-12-02
+84,Amazon Prime,Subscriptions,2024-10-27
+1794,Savings Deposit,Banking(Debt/Savings),2024-03-18
+435,Donation,Other,2024-08-19
+851,Rent,Housing,2024-10-03
+597,Online Course,Education,2024-03-17
+285,Car Insurance,Insurance,2024-03-23
+671,Health Insurance,Insurance,2024-06-20
+102,Car Maintenance,Transportation,2024-07-21
+173,Water Bill,Utilities,2024-02-01
+48,Roblox,Entertainment,2024-12-28
+555,Online Course,Education,2024-09-25
+92,Gym Membership,Subscriptions,2024-03-24
+72,Uber,Transportation,2024-01-04
+842,Car Insurance,Insurance,2024-06-11
+246,Gas,Transportation,2024-05-12
+186,Groceries,Food,2024-03-12
+315,Restaurant,Food,2024-01-08
+593,Home Maintenance,Housing,2024-12-14
+2817,Rent,Housing,2024-07-11
+344,Donation,Other,2024-07-04
+346,Savings Deposit,Banking(Debt/Savings),2024-03-14
+83,Hulu,Subscriptions,2024-09-09
+4016,Credit Card Payment,Banking(Debt/Savings),2024-03-16
+2628,Loan Payment,Banking(Debt/Savings),2024-11-20
+216,Water Bill,Utilities,2024-05-28
+61,Roblox,Entertainment,2024-01-01
+78,Amazon Prime,Subscriptions,2024-05-01
+4798,Credit Card Payment,Banking(Debt/Savings),2024-03-08
+369,Credit Card Payment,Banking(Debt/Savings),2024-12-10
+650,Life Insurance,Insurance,2024-01-17
+97,Spotify,Entertainment,2024-04-10
+56,Gym Membership,Subscriptions,2024-06-27
+637,Life Insurance,Insurance,2024-02-27
+839,Life Insurance,Insurance,2024-01-28
+335,Life Insurance,Insurance,2024-11-25
+473,Tuition Fee,Education,2024-04-18
+331,Gift,Other,2024-09-12
+1704,Rent,Housing,2024-07-24
+3487,Credit Card Payment,Banking(Debt/Savings),2024-03-16
+439,Health Insurance,Insurance,2024-05-25
+261,Car Maintenance,Transportation,2024-10-24
+190,Car Insurance,Insurance,2024-10-27
+69,Tuition Fee,Education,2024-02-25
+198,Internet,Utilities,2024-03-01
+130,Miscellaneous,Other,2024-06-14
+37,Gym Membership,Subscriptions,2024-11-16
+893,Textbooks,Education,2024-12-01
+213,Gas,Transportation,2024-07-15
+10,Uber,Transportation,2024-01-19
+52,Internet,Utilities,2024-07-20
+133,Health Insurance,Insurance,2024-04-17
+87,Car Maintenance,Transportation,2024-05-11
+5,Hulu,Subscriptions,2024-12-12
+404,Fast Food,Food,2024-09-28
+24,Netflix,Entertainment,2024-04-03
+40,Hulu,Subscriptions,2024-11-20
+736,Mortgage,Housing,2024-04-25
+99,Restaurant,Food,2024-03-13
+279,Water Bill,Utilities,2024-01-19
+35,Overwatch 2,Entertainment,2024-03-14
+676,Loan Payment,Banking(Debt/Savings),2024-03-25
+175,Car Maintenance,Transportation,2024-01-31
+183,Textbooks,Education,2024-06-17
+255,Internet,Utilities,2024-09-09
+615,Car Insurance,Insurance,2024-12-21
+45,Train Ticket,Transportation,2024-08-11
+153,Gas,Transportation,2024-09-12
+591,Textbooks,Education,2024-07-12
+500,Online Course,Education,2024-03-10
+94,Gym Membership,Subscriptions,2024-02-14
+206,Water Bill,Utilities,2024-04-12
+31,Amazon Prime,Subscriptions,2024-04-15
+2368,Mortgage,Housing,2024-02-27
+150,Spotify,Entertainment,2024-08-20
+52,Netflix,Entertainment,2024-07-05
+253,Life Insurance,Insurance,2024-06-12
+475,Textbooks,Education,2024-12-07
+766,Life Insurance,Insurance,2024-05-29
+754,Health Insurance,Insurance,2024-05-11
+83,Car Maintenance,Transportation,2024-10-24
+74,Hulu,Subscriptions,2024-09-21
+183,Uber,Transportation,2024-11-26
+2124,Credit Card Payment,Banking(Debt/Savings),2024-10-03
+761,Rent,Housing,2024-02-28
+178,Car Insurance,Insurance,2024-07-04
+269,Health Insurance,Insurance,2024-09-16
+69,Internet,Utilities,2024-07-25
+103,Savings Deposit,Banking(Debt/Savings),2024-09-11
+31,Groceries,Food,2024-06-26
+103,Restaurant,Food,2024-02-20
+120,Electricity Bill,Utilities,2024-12-25
+1763,Home Maintenance,Housing,2024-08-25
+280,Groceries,Food,2024-09-24
+81,Gym Membership,Subscriptions,2024-01-10
+399,Groceries,Food,2024-05-06
+69,Spotify,Entertainment,2024-06-11
+1270,Mortgage,Housing,2024-12-08
+262,Electricity Bill,Utilities,2024-04-24
+69,Uber,Transportation,2024-05-20
+85,Train Ticket,Transportation,2024-10-25
+1668,Loan Payment,Banking(Debt/Savings),2024-03-20
+1068,Mortgage,Housing,2024-08-10
+55,Uber,Transportation,2024-11-10
+204,Uber,Transportation,2024-01-12
+253,Water Bill,Utilities,2024-11-01
+2609,Credit Card Payment,Banking(Debt/Savings),2024-04-21
+126,Water Bill,Utilities,2024-11-24
+814,Textbooks,Education,2024-06-30
+438,Fast Food,Food,2024-02-10
+459,Loan Payment,Banking(Debt/Savings),2024-02-27
+283,Uber,Transportation,2024-09-19
+517,Online Course,Education,2024-05-22
+285,Restaurant,Food,2024-03-14
+28,Gym Membership,Subscriptions,2024-08-09
+308,Miscellaneous,Other,2024-06-10
+197,Car Insurance,Insurance,2024-03-23
+345,Restaurant,Food,2024-10-27
+297,Fast Food,Food,2024-09-29
+600,Health Insurance,Insurance,2024-01-21
+43,Gym Membership,Subscriptions,2024-12-16
+228,Online Course,Education,2024-09-29
+867,Online Course,Education,2024-10-15
+59,Hulu,Subscriptions,2024-06-26
+44,Gas,Transportation,2024-01-29
+1667,Rent,Housing,2024-07-09
+201,Textbooks,Education,2024-01-31
+3192,Savings Deposit,Banking(Debt/Savings),2024-09-18
+14,Roblox,Entertainment,2024-09-16
+45,Miscellaneous,Other,2024-07-12
+437,Groceries,Food,2024-10-13
+167,Train Ticket,Transportation,2024-06-24
+77,Gift,Other,2024-01-03
+85,Spotify,Entertainment,2024-03-24
+649,Life Insurance,Insurance,2024-01-18
+90,Gift,Other,2024-01-04
+60,Miscellaneous,Other,2024-04-20
+120,Gas,Transportation,2024-01-26
+2687,Credit Card Payment,Banking(Debt/Savings),2024-11-09
+144,Water Bill,Utilities,2024-01-23
+84,Cinema Tickets,Entertainment,2024-09-06
+1895,Rent,Housing,2024-10-12
+84,Gas,Transportation,2024-08-24
+200,Cinema Tickets,Entertainment,2024-09-11
+149,Roblox,Entertainment,2024-09-09
+168,Netflix,Entertainment,2024-04-23
+2231,Credit Card Payment,Banking(Debt/Savings),2024-05-14
+55,Amazon Prime,Subscriptions,2024-06-12
+915,Health Insurance,Insurance,2024-12-30
+282,Groceries,Food,2024-10-25
+118,Electricity Bill,Utilities,2024-12-05
+944,Rent,Housing,2024-06-28
+265,Groceries,Food,2024-10-18
+312,Fast Food,Food,2024-12-11
+62,Restaurant,Food,2024-09-26
+242,Internet,Utilities,2024-02-23
+19,Gym Membership,Subscriptions,2024-12-27
+839,Life Insurance,Insurance,2024-02-02
+72,Cinema Tickets,Entertainment,2024-10-31
+149,Life Insurance,Insurance,2024-05-11
+95,Hulu,Subscriptions,2024-01-29
+37,Car Maintenance,Transportation,2024-09-04
+1292,Mortgage,Housing,2024-11-15
+10,Amazon Prime,Subscriptions,2024-03-05
+2543,Rent,Housing,2024-10-08
+60,Amazon Prime,Subscriptions,2024-04-02
+2560,Loan Payment,Banking(Debt/Savings),2024-03-09
+606,Life Insurance,Insurance,2024-03-10
+76,Internet,Utilities,2024-03-05
+184,Spotify,Entertainment,2024-12-09
+897,Health Insurance,Insurance,2024-02-05
+201,Health Insurance,Insurance,2024-09-02
+168,Internet,Utilities,2024-08-10
+98,Amazon Prime,Subscriptions,2024-11-08
+187,Netflix,Entertainment,2024-09-21
+50,Netflix,Entertainment,2024-11-03
+1671,Loan Payment,Banking(Debt/Savings),2024-12-24
+65,Gift,Other,2024-05-04
+62,Gym Membership,Subscriptions,2024-06-01
+356,Fast Food,Food,2024-04-18
+1585,Mortgage,Housing,2024-10-31
+243,Gas,Transportation,2024-02-15
+1468,Home Maintenance,Housing,2024-11-18
+244,Electricity Bill,Utilities,2024-10-12
+43,Miscellaneous,Other,2024-12-22
+164,Train Ticket,Transportation,2024-04-12
+844,Health Insurance,Insurance,2024-09-02
+577,Tuition Fee,Education,2024-08-30
+113,Internet,Utilities,2024-05-23
+395,Fast Food,Food,2024-05-13
+839,Health Insurance,Insurance,2024-04-26
+158,Uber,Transportation,2024-08-14
+1000,Life Insurance,Insurance,2024-10-11
+2610,Mortgage,Housing,2024-06-15
+167,Restaurant,Food,2024-05-11
+1866,Home Maintenance,Housing,2024-07-19
+106,Cinema Tickets,Entertainment,2024-03-12
+154,Cinema Tickets,Entertainment,2024-03-11
+260,Uber,Transportation,2024-09-05
+280,Internet,Utilities,2024-01-30
+922,Car Insurance,Insurance,2024-08-18
+160,Coffee,Food,2024-11-12
+197,Miscellaneous,Other,2024-02-20
+133,Netflix,Entertainment,2024-11-13
+1541,Savings Deposit,Banking(Debt/Savings),2024-11-07
+838,Car Insurance,Insurance,2024-03-16
+49,Train Ticket,Transportation,2024-05-30
+94,Donation,Other,2024-08-23
+171,Water Bill,Utilities,2024-02-08
+145,Textbooks,Education,2024-06-27
+918,Life Insurance,Insurance,2024-06-07
+2281,Credit Card Payment,Banking(Debt/Savings),2024-07-18
+141,Netflix,Entertainment,2024-12-16
+1734,Home Maintenance,Housing,2024-07-16
+888,Tuition Fee,Education,2024-01-17
+936,Online Course,Education,2024-11-15
+1239,Credit Card Payment,Banking(Debt/Savings),2024-04-27
+187,Miscellaneous,Other,2024-07-27
+85,Amazon Prime,Subscriptions,2024-08-30
+223,Train Ticket,Transportation,2024-06-10
+297,Car Insurance,Insurance,2024-04-25
+62,Hulu,Subscriptions,2024-01-09
+145,Train Ticket,Transportation,2024-07-31
+393,Car Insurance,Insurance,2024-01-25
+406,Savings Deposit,Banking(Debt/Savings),2024-07-19
+2450,Mortgage,Housing,2024-10-29
+84,Gas,Transportation,2024-09-14
+371,Gift,Other,2024-05-10
+755,Life Insurance,Insurance,2024-04-16
+11,Spotify,Entertainment,2024-10-21
+190,Internet,Utilities,2024-05-25
+77,Hulu,Subscriptions,2024-01-11
+23,Overwatch 2,Entertainment,2024-01-27
+54,Gym Membership,Subscriptions,2024-07-25
+926,Tuition Fee,Education,2024-02-10
+420,Tuition Fee,Education,2024-02-12
+199,Water Bill,Utilities,2024-10-06
+595,Credit Card Payment,Banking(Debt/Savings),2024-03-18
+239,Water Bill,Utilities,2024-02-26
+57,Train Ticket,Transportation,2024-11-20
+562,Health Insurance,Insurance,2024-08-23
+660,Online Course,Education,2024-11-13
+1870,Credit Card Payment,Banking(Debt/Savings),2024-06-14
+705,Life Insurance,Insurance,2024-08-22
+202,Coffee,Food,2024-10-19
+36,Hulu,Subscriptions,2024-04-09
+166,Uber,Transportation,2024-11-15
+1064,Mortgage,Housing,2024-10-04
+4498,Credit Card Payment,Banking(Debt/Savings),2024-11-30
+2666,Savings Deposit,Banking(Debt/Savings),2024-09-30
+567,Textbooks,Education,2024-05-11
+202,Restaurant,Food,2024-05-16
+450,Groceries,Food,2024-04-18
+289,Water Bill,Utilities,2024-07-01
+83,Groceries,Food,2024-10-27
+294,Textbooks,Education,2024-05-19
+408,Groceries,Food,2024-05-17
+494,Textbooks,Education,2024-08-27
+137,Gas,Transportation,2024-06-07
+309,Groceries,Food,2024-06-24
+602,Health Insurance,Insurance,2024-09-07
+898,Mortgage,Housing,2024-03-11
+98,Amazon Prime,Subscriptions,2024-06-07
+675,Life Insurance,Insurance,2024-11-25
+487,Donation,Other,2024-07-11
+134,Coffee,Food,2024-01-29
+2324,Rent,Housing,2024-02-13
+309,Life Insurance,Insurance,2024-02-10
+547,Textbooks,Education,2024-05-03
+55,Coffee,Food,2024-07-30
+2508,Mortgage,Housing,2024-12-27
+48,Cinema Tickets,Entertainment,2024-03-27
+123,Electricity Bill,Utilities,2024-03-04
+66,Electricity Bill,Utilities,2024-09-20
+2600,Home Maintenance,Housing,2024-01-29
+2573,Mortgage,Housing,2024-05-04
+441,Donation,Other,2024-11-22
+152,Car Maintenance,Transportation,2024-01-14
+16,Gym Membership,Subscriptions,2024-07-31
+215,Electricity Bill,Utilities,2024-06-02
+486,Textbooks,Education,2024-09-27
+452,Miscellaneous,Other,2024-10-07
+325,Gift,Other,2024-10-19
+585,Tuition Fee,Education,2024-08-21
+70,Internet,Utilities,2024-02-04
+4389,Credit Card Payment,Banking(Debt/Savings),2024-10-30
+76,Electricity Bill,Utilities,2024-03-03
+99,Electricity Bill,Utilities,2024-11-02
+268,Uber,Transportation,2024-05-20
+92,Gym Membership,Subscriptions,2024-12-25
+98,Fast Food,Food,2024-03-07
+109,Overwatch 2,Entertainment,2024-10-10
+42,Overwatch 2,Entertainment,2024-06-14
+577,Car Insurance,Insurance,2024-04-14
+656,Health Insurance,Insurance,2024-02-12
+426,Restaurant,Food,2024-02-04
+149,Cinema Tickets,Entertainment,2024-09-16
+15,Car Maintenance,Transportation,2024-08-18
+100,Cinema Tickets,Entertainment,2024-04-28
+14,Gift,Other,2024-10-17
+242,Restaurant,Food,2024-08-14
+164,Cinema Tickets,Entertainment,2024-07-20
+150,Restaurant,Food,2024-06-13
+108,Uber,Transportation,2024-12-07
+944,Car Insurance,Insurance,2024-07-06
+75,Amazon Prime,Subscriptions,2024-06-17
+935,Tuition Fee,Education,2024-01-02
+95,Water Bill,Utilities,2024-04-30
+99,Hulu,Subscriptions,2024-12-23
+719,Online Course,Education,2024-07-10
+161,Water Bill,Utilities,2024-12-25
+438,Donation,Other,2024-12-09
+939,Loan Payment,Banking(Debt/Savings),2024-06-15
+36,Uber,Transportation,2024-03-23
+198,Roblox,Entertainment,2024-08-31
+658,Tuition Fee,Education,2024-01-17
+267,Electricity Bill,Utilities,2024-06-15
+18,Hulu,Subscriptions,2024-09-12
+98,Textbooks,Education,2024-04-17
+51,Tuition Fee,Education,2024-09-28
+229,Gift,Other,2024-02-26
+623,Textbooks,Education,2024-09-21
+263,Miscellaneous,Other,2024-09-18
+51,Amazon Prime,Subscriptions,2024-12-09
+53,Uber,Transportation,2024-12-18
+168,Cinema Tickets,Entertainment,2024-02-16
+79,Overwatch 2,Entertainment,2024-01-29
+9,Gym Membership,Subscriptions,2024-04-22
+273,Car Maintenance,Transportation,2024-06-30
+1242,Loan Payment,Banking(Debt/Savings),2024-03-24
+547,Textbooks,Education,2024-03-28
+496,Coffee,Food,2024-06-24
+1198,Home Maintenance,Housing,2024-01-28
+179,Overwatch 2,Entertainment,2024-01-14
+365,Groceries,Food,2024-12-27
+928,Rent,Housing,2024-04-03
+72,Donation,Other,2024-04-22
+3247,Savings Deposit,Banking(Debt/Savings),2024-05-03
+469,Donation,Other,2024-02-16
+2389,Savings Deposit,Banking(Debt/Savings),2024-12-16
+87,Gift,Other,2024-05-29
+181,Netflix,Entertainment,2024-06-18
+361,Health Insurance,Insurance,2024-08-29
+408,Online Course,Education,2024-03-16
+393,Restaurant,Food,2024-04-20
+24,Gym Membership,Subscriptions,2024-04-13
+268,Electricity Bill,Utilities,2024-08-09
+132,Water Bill,Utilities,2024-11-24
+28,Uber,Transportation,2024-11-21
+2046,Loan Payment,Banking(Debt/Savings),2024-06-28
+139,Netflix,Entertainment,2024-06-08
+754,Mortgage,Housing,2024-11-01
+206,Uber,Transportation,2024-12-07
+43,Donation,Other,2024-08-16
+5,Hulu,Subscriptions,2024-04-21
+986,Mortgage,Housing,2024-06-19
+5,Amazon Prime,Subscriptions,2024-08-15
+140,Health Insurance,Insurance,2024-05-03
+2637,Rent,Housing,2024-11-27
+2009,Loan Payment,Banking(Debt/Savings),2024-05-16
+1550,Rent,Housing,2024-09-16
+45,Hulu,Subscriptions,2024-10-21
+51,Train Ticket,Transportation,2024-09-10
+4789,Loan Payment,Banking(Debt/Savings),2024-02-17
+1042,Rent,Housing,2024-10-16
+238,Savings Deposit,Banking(Debt/Savings),2024-12-22
+155,Electricity Bill,Utilities,2024-06-12
+432,Online Course,Education,2024-04-04
+42,Amazon Prime,Subscriptions,2024-09-08
+29,Hulu,Subscriptions,2024-04-10
+57,Gym Membership,Subscriptions,2024-10-07
+137,Electricity Bill,Utilities,2024-10-24
+4712,Loan Payment,Banking(Debt/Savings),2024-06-24
+160,Cinema Tickets,Entertainment,2024-11-23
+79,Amazon Prime,Subscriptions,2024-03-23
+247,Credit Card Payment,Banking(Debt/Savings),2024-05-14
+2625,Rent,Housing,2024-09-23
+186,Netflix,Entertainment,2024-09-17
+256,Health Insurance,Insurance,2024-10-04
+1626,Home Maintenance,Housing,2024-12-01
+2388,Mortgage,Housing,2024-07-15
+74,Hulu,Subscriptions,2024-05-25
+145,Miscellaneous,Other,2024-05-02
+204,Electricity Bill,Utilities,2024-07-14
+771,Savings Deposit,Banking(Debt/Savings),2024-01-10
+3215,Loan Payment,Banking(Debt/Savings),2024-10-27
+155,Coffee,Food,2024-04-10
+331,Coffee,Food,2024-11-06
+1894,Rent,Housing,2024-02-19
+629,Online Course,Education,2024-11-05
+214,Train Ticket,Transportation,2024-05-14
+77,Coffee,Food,2024-09-30
+30,Hulu,Subscriptions,2024-03-20
+42,Roblox,Entertainment,2024-04-15
+225,Electricity Bill,Utilities,2024-02-21
+964,Health Insurance,Insurance,2024-09-13
+151,Water Bill,Utilities,2024-07-24
+711,Car Insurance,Insurance,2024-03-18
+1807,Loan Payment,Banking(Debt/Savings),2024-11-10
+1086,Loan Payment,Banking(Debt/Savings),2024-01-19
+100,Internet,Utilities,2024-01-15
+103,Internet,Utilities,2024-06-18
+447,Savings Deposit,Banking(Debt/Savings),2024-07-15
+59,Gas,Transportation,2024-03-28
+1004,Home Maintenance,Housing,2024-07-12
+51,Donation,Other,2024-08-21
+162,Overwatch 2,Entertainment,2024-12-10
+965,Home Maintenance,Housing,2024-03-17
+803,Online Course,Education,2024-01-26
+81,Coffee,Food,2024-07-15
+247,Restaurant,Food,2024-04-27
+853,Tuition Fee,Education,2024-07-04
+603,Tuition Fee,Education,2024-01-17
+164,Netflix,Entertainment,2024-01-17
+1733,Rent,Housing,2024-07-29
+486,Textbooks,Education,2024-05-30
+848,Savings Deposit,Banking(Debt/Savings),2024-04-20
+120,Uber,Transportation,2024-09-25
+2022,Home Maintenance,Housing,2024-11-28
+356,Coffee,Food,2024-09-20
+18,Miscellaneous,Other,2024-06-23
+84,Cinema Tickets,Entertainment,2024-07-16
+69,Water Bill,Utilities,2024-04-11
+942,Online Course,Education,2024-11-15
+69,Hulu,Subscriptions,2024-07-06
+380,Life Insurance,Insurance,2024-12-20
+967,Life Insurance,Insurance,2024-03-20
+68,Gym Membership,Subscriptions,2024-08-28
+826,Car Insurance,Insurance,2024-11-20
+2333,Credit Card Payment,Banking(Debt/Savings),2024-03-16
+108,Online Course,Education,2024-01-27
+143,Netflix,Entertainment,2024-09-03
+777,Life Insurance,Insurance,2024-12-17
+36,Car Maintenance,Transportation,2024-10-15
+2287,Rent,Housing,2024-02-04
+73,Amazon Prime,Subscriptions,2024-02-29
+893,Car Insurance,Insurance,2024-11-01
+25,Uber,Transportation,2024-03-18
+56,Electricity Bill,Utilities,2024-07-27
+166,Gift,Other,2024-02-05
+53,Amazon Prime,Subscriptions,2024-06-28
+2879,Loan Payment,Banking(Debt/Savings),2024-05-11
+2366,Mortgage,Housing,2024-03-27
+277,Tuition Fee,Education,2024-11-12
+702,Life Insurance,Insurance,2024-02-29
+2410,Rent,Housing,2024-10-11
+2782,Savings Deposit,Banking(Debt/Savings),2024-12-04
+164,Uber,Transportation,2024-12-06
+393,Fast Food,Food,2024-01-17
+4581,Loan Payment,Banking(Debt/Savings),2024-05-29
+50,Water Bill,Utilities,2024-08-18
+305,Donation,Other,2024-06-06
+350,Miscellaneous,Other,2024-10-18
+357,Car Insurance,Insurance,2024-06-23
+182,Roblox,Entertainment,2024-01-03
+257,Online Course,Education,2024-09-18
+177,Gas,Transportation,2024-02-22
+855,Savings Deposit,Banking(Debt/Savings),2024-03-13
+977,Health Insurance,Insurance,2024-04-28
+81,Fast Food,Food,2024-12-19
+260,Health Insurance,Insurance,2024-12-30
+57,Gym Membership,Subscriptions,2024-09-21
+116,Donation,Other,2024-02-06
+367,Gift,Other,2024-01-02
+139,Electricity Bill,Utilities,2024-10-09
+575,Textbooks,Education,2024-09-29
+456,Groceries,Food,2024-09-29
+95,Water Bill,Utilities,2024-05-25
+145,Netflix,Entertainment,2024-03-19
+361,Donation,Other,2024-11-02
+180,Netflix,Entertainment,2024-11-13
+64,Donation,Other,2024-07-20
+480,Miscellaneous,Other,2024-12-25
+418,Textbooks,Education,2024-07-07
+488,Restaurant,Food,2024-09-11
+76,Amazon Prime,Subscriptions,2024-07-02
+2274,Savings Deposit,Banking(Debt/Savings),2024-05-07
+802,Online Course,Education,2024-06-11
+76,Internet,Utilities,2024-01-20
+153,Water Bill,Utilities,2024-01-26
+673,Tuition Fee,Education,2024-08-24
+289,Electricity Bill,Utilities,2024-04-18
+875,Mortgage,Housing,2024-02-19
+246,Donation,Other,2024-10-07
+115,Gift,Other,2024-02-20
+782,Online Course,Education,2024-09-03
+911,Tuition Fee,Education,2024-04-08
+185,Tuition Fee,Education,2024-04-07
+91,Spotify,Entertainment,2024-07-20
+1066,Home Maintenance,Housing,2024-03-12
+60,Textbooks,Education,2024-05-26
+126,Roblox,Entertainment,2024-07-15
+89,Spotify,Entertainment,2024-12-29
+2803,Rent,Housing,2024-02-08
+392,Miscellaneous,Other,2024-05-12
+455,Life Insurance,Insurance,2024-04-25
+261,Uber,Transportation,2024-03-09
+183,Gas,Transportation,2024-11-13
+324,Groceries,Food,2024-02-26
+483,Donation,Other,2024-11-03
+187,Fast Food,Food,2024-08-01
+572,Online Course,Education,2024-04-03
+282,Miscellaneous,Other,2024-06-30
+77,Online Course,Education,2024-12-26
+3108,Loan Payment,Banking(Debt/Savings),2024-02-24
+80,Roblox,Entertainment,2024-11-27
+325,Tuition Fee,Education,2024-10-25
+41,Hulu,Subscriptions,2024-03-31
+363,Groceries,Food,2024-02-09
+724,Online Course,Education,2024-10-14
+13,Gym Membership,Subscriptions,2024-12-07
+874,Online Course,Education,2024-04-13
+458,Restaurant,Food,2024-01-23
+2758,Credit Card Payment,Banking(Debt/Savings),2024-06-30
+85,Train Ticket,Transportation,2024-10-26
+421,Gift,Other,2024-04-11
+284,Health Insurance,Insurance,2024-11-26
+136,Car Maintenance,Transportation,2024-04-02
+253,Gift,Other,2024-04-10
+218,Uber,Transportation,2024-05-10
+3380,Savings Deposit,Banking(Debt/Savings),2024-08-29
+80,Spotify,Entertainment,2024-12-03
+788,Savings Deposit,Banking(Debt/Savings),2024-07-14
+559,Health Insurance,Insurance,2024-12-21
+1606,Home Maintenance,Housing,2024-04-24
+398,Textbooks,Education,2024-07-18
+17,Uber,Transportation,2024-01-21
+297,Internet,Utilities,2024-07-23
+4426,Savings Deposit,Banking(Debt/Savings),2024-04-28
+2278,Rent,Housing,2024-07-26
+41,Cinema Tickets,Entertainment,2024-11-01
+21,Textbooks,Education,2024-07-04
+624,Health Insurance,Insurance,2024-09-16
+171,Netflix,Entertainment,2024-10-22
+886,Home Maintenance,Housing,2024-05-15
+13,Hulu,Subscriptions,2024-10-12
+491,Life Insurance,Insurance,2024-03-17
+247,Electricity Bill,Utilities,2024-11-06
+241,Groceries,Food,2024-06-06
+497,Groceries,Food,2024-03-04
+869,Health Insurance,Insurance,2024-07-14
+362,Gift,Other,2024-07-23
+247,Fast Food,Food,2024-10-03
+29,Gym Membership,Subscriptions,2024-05-07
+1412,Mortgage,Housing,2024-03-16
+2093,Rent,Housing,2024-05-28
+184,Internet,Utilities,2024-05-24
+112,Gas,Transportation,2024-08-22
+36,Miscellaneous,Other,2024-03-12
+613,Health Insurance,Insurance,2024-05-28
+41,Netflix,Entertainment,2024-08-21
+173,Water Bill,Utilities,2024-12-24
+288,Electricity Bill,Utilities,2024-05-30
+145,Gas,Transportation,2024-11-07
+831,Online Course,Education,2024-05-04
+264,Groceries,Food,2024-06-29
+467,Groceries,Food,2024-04-07
+110,Gift,Other,2024-02-14
+34,Overwatch 2,Entertainment,2024-09-03
+38,Gym Membership,Subscriptions,2024-01-08
+2810,Rent,Housing,2024-05-20
+846,Online Course,Education,2024-02-20
+197,Miscellaneous,Other,2024-12-14
+376,Groceries,Food,2024-08-18
+396,Donation,Other,2024-07-08
+461,Textbooks,Education,2024-02-12
+1685,Loan Payment,Banking(Debt/Savings),2024-03-15
+187,Car Insurance,Insurance,2024-01-27
+70,Gas,Transportation,2024-11-07
+702,Car Insurance,Insurance,2024-01-15
+183,Electricity Bill,Utilities,2024-09-27
+932,Car Insurance,Insurance,2024-05-29
+23,Netflix,Entertainment,2024-06-16
+774,Textbooks,Education,2024-09-10
+253,Internet,Utilities,2024-10-03
+935,Health Insurance,Insurance,2024-03-19
+150,Groceries,Food,2024-09-30
+146,Restaurant,Food,2024-07-29
+101,Coffee,Food,2024-04-14
+246,Electricity Bill,Utilities,2024-05-28
+71,Car Maintenance,Transportation,2024-07-16
+80,Gym Membership,Subscriptions,2024-05-02
+1973,Mortgage,Housing,2024-11-22
+339,Miscellaneous,Other,2024-04-16
+14,Cinema Tickets,Entertainment,2024-01-07
+399,Car Insurance,Insurance,2024-01-16
+322,Groceries,Food,2024-05-06
+853,Home Maintenance,Housing,2024-10-15
+478,Coffee,Food,2024-04-06
+249,Water Bill,Utilities,2024-11-16
+72,Miscellaneous,Other,2024-04-21
+2426,Home Maintenance,Housing,2024-08-31
+125,Internet,Utilities,2024-12-05
+141,Water Bill,Utilities,2024-11-20
+853,Life Insurance,Insurance,2024-03-01
+434,Online Course,Education,2024-11-22
+34,Hulu,Subscriptions,2024-09-07
+968,Textbooks,Education,2024-11-03
+924,Life Insurance,Insurance,2024-08-13
+113,Donation,Other,2024-06-24
+197,Gift,Other,2024-07-30
+337,Gift,Other,2024-03-10
+189,Groceries,Food,2024-01-31
+269,Gas,Transportation,2024-06-10
+33,Car Maintenance,Transportation,2024-09-30
+311,Online Course,Education,2024-12-05
+306,Gift,Other,2024-02-04
+246,Internet,Utilities,2024-06-16
+197,Train Ticket,Transportation,2024-06-27
+183,Train Ticket,Transportation,2024-08-25
+2659,Credit Card Payment,Banking(Debt/Savings),2024-08-01
+738,Life Insurance,Insurance,2024-04-27
+2978,Home Maintenance,Housing,2024-11-25
+22,Amazon Prime,Subscriptions,2024-10-06
+321,Car Insurance,Insurance,2024-08-15
+3328,Credit Card Payment,Banking(Debt/Savings),2024-05-03
+98,Internet,Utilities,2024-08-21
+4394,Credit Card Payment,Banking(Debt/Savings),2024-02-01
+211,Train Ticket,Transportation,2024-12-07
+76,Roblox,Entertainment,2024-03-28
+166,Train Ticket,Transportation,2024-10-30
+99,Train Ticket,Transportation,2024-08-20
+168,Water Bill,Utilities,2024-07-21
+300,Gift,Other,2024-06-30
+2513,Rent,Housing,2024-01-09
+4896,Loan Payment,Banking(Debt/Savings),2024-01-13
+763,Health Insurance,Insurance,2024-07-11
+80,Internet,Utilities,2024-02-27
+854,Life Insurance,Insurance,2024-02-08
+95,Amazon Prime,Subscriptions,2024-05-07
+158,Life Insurance,Insurance,2024-12-20
+65,Hulu,Subscriptions,2024-06-15
+574,Tuition Fee,Education,2024-02-05
+545,Online Course,Education,2024-06-05
+46,Gas,Transportation,2024-04-14
+86,Spotify,Entertainment,2024-07-30
+2228,Home Maintenance,Housing,2024-01-14
+442,Groceries,Food,2024-10-24
+501,Health Insurance,Insurance,2024-08-20
+1829,Mortgage,Housing,2024-03-15
+5,Hulu,Subscriptions,2024-12-11
+4385,Loan Payment,Banking(Debt/Savings),2024-06-07
+99,Hulu,Subscriptions,2024-07-14
+78,Amazon Prime,Subscriptions,2024-12-22
+33,Textbooks,Education,2024-12-18
+72,Uber,Transportation,2024-01-29
+792,Mortgage,Housing,2024-11-06
+110,Cinema Tickets,Entertainment,2024-05-01
+209,Online Course,Education,2024-09-26
+2293,Rent,Housing,2024-06-05
+76,Cinema Tickets,Entertainment,2024-08-23
+778,Online Course,Education,2024-11-04
+446,Health Insurance,Insurance,2024-01-19
+16,Coffee,Food,2024-08-01
+258,Coffee,Food,2024-05-05
+118,Tuition Fee,Education,2024-05-24
+178,Fast Food,Food,2024-10-01
+352,Miscellaneous,Other,2024-08-27
+28,Hulu,Subscriptions,2024-02-20
+228,Internet,Utilities,2024-08-21
+227,Textbooks,Education,2024-11-28
+52,Car Maintenance,Transportation,2024-09-29
+772,Home Maintenance,Housing,2024-09-26
+2098,Home Maintenance,Housing,2024-08-02
+122,Electricity Bill,Utilities,2024-11-28
+218,Restaurant,Food,2024-06-21
+2872,Mortgage,Housing,2024-11-23
+347,Gift,Other,2024-09-21
+591,Car Insurance,Insurance,2024-06-15
+277,Electricity Bill,Utilities,2024-10-12
+38,Hulu,Subscriptions,2024-02-07
+149,Textbooks,Education,2024-06-05
+21,Hulu,Subscriptions,2024-09-23
+293,Electricity Bill,Utilities,2024-03-23
+368,Miscellaneous,Other,2024-11-20
+383,Life Insurance,Insurance,2024-10-01
+316,Donation,Other,2024-07-07
+32,Restaurant,Food,2024-01-24
+65,Hulu,Subscriptions,2024-10-09
+176,Groceries,Food,2024-03-24
+148,Restaurant,Food,2024-03-09
+65,Amazon Prime,Subscriptions,2024-09-26
+206,Train Ticket,Transportation,2024-02-16
+244,Coffee,Food,2024-12-26
+172,Roblox,Entertainment,2024-12-28
+30,Train Ticket,Transportation,2024-09-07
+860,Home Maintenance,Housing,2024-04-30
