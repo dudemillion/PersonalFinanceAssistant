@@ -6,19 +6,18 @@ import pandas
 import numpy
 from sklearn.linear_model import LinearRegression
 from sklearn.model_selection import train_test_split
-from sklearn.metrics import mean_squared_error, mean_absolute_error
-filepath = "expenses_2024.csv"
+from sklearn.metrics import mean_absolute_error
 data = []
 fields = ["Expense", "Description", "Category", "Date"]
-pandasdata = pandas.read_csv(filepath)
-with open(filepath, "a", newline='') as csvfile:
+pandasdata = pandas.read_csv("expenses_2024.csv")
+with open("expenses_2024.csv", "a", newline='') as csvfile:
         writer = csv.writer(csvfile)
-        if os.path.getsize(filepath) == 0:
+        if os.path.getsize("expenses_2024.csv") == 0:
             writer.writerow(fields)
 def weekly_and_monthly_spending():
     weekly = collections.defaultdict(float)
     monthly = collections.defaultdict(float)
-    with open(filepath, 'r') as csvfile:
+    with open("expenses_2024.csv", 'r') as csvfile:
         reader = csv.DictReader(csvfile)
         for y in reader:
             date = datetime.datetime.strptime(y["Date"], "%Y-%m-%d")
@@ -27,6 +26,16 @@ def weekly_and_monthly_spending():
             expense = float(y["Expense"])
             weekly[week] += expense
             monthly[month] += expense
+        sorted_weekly = dict(sorted(weekly.items()))
+        sorted_monthly = dict(sorted(monthly.items()))
+    
+        print("\nWeekly Spending:")
+        for week, amount in sorted_weekly.items():
+            print(f"Week {week}: ${amount:.2f}")
+    
+        print("\nMonthly Spending:")
+        for month, amount in sorted_monthly.items():
+            print(f"Month {month}: ${amount:.2f}")
     sorted_monthly = dict(sorted(monthly.items()))
     return sorted_monthly
 
@@ -49,7 +58,7 @@ def expense_prediction():
      mae = mean_absolute_error(y_test, y_pred)
      next_month = numpy.array([[len(dataframe) + 1]])
      next_expense = model.predict(next_month)
-     print(f"Based on your past spending, your projected budget for next month is: ${next_expense[0][0]:.2f}. (Mean Absolute Error: ${mae})")
+     print(f"Based on your past spending, your projected budget for next month is: ${next_expense[0][0]:.2f}. (Mean Absolute Error: ${mae:.2f})")
 
 print("Hello! Welcome to your Personal Finance Assistant. How can I help?")
 while True:
@@ -60,10 +69,11 @@ while True:
         category = input("In what category? (Utilities, Entertainment, Food, Banking(Debt/Savings), Transportation, Insurance, Housing, Education, Subscriptions, Other)")
         date = input("When? (Use yyyy-mm-dd).")
         data = [expense, description, category, date]
-        with open(filepath, "a", newline='') as csvfile:
+        with open("expenses_2024.csv", "a", newline='') as csvfile:
             writer = csv.writer(csvfile)
             writer.writerow(data)
         print("Data added!")
+        pandasdata = pandas.read_csv("expenses_2024.csv")
     elif choice == 2:
          print(pandasdata)
          weekly_and_monthly_spending()
