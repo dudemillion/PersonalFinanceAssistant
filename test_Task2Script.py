@@ -23,16 +23,14 @@ class TestExpenseFunctions(unittest.TestCase):
         with open(self.filepath, 'r') as file:
             reader = csv.reader(file)
             rows = list(reader)
-            self.assertEqual(len(rows), 2)  # Check that there are two rows in the file
-            self.assertEqual(rows[1], expense_data)  # Verify the added data is correct
+            self.assertEqual(len(rows), 2)
+            self.assertEqual(rows[1], expense_data)
 
     def test_data_display(self):
-        # Assuming your display function prints the data to the console
         with open(self.filepath, 'a', newline='') as file:
             writer = csv.writer(file)
             writer.writerow(["100.00", "Rent", "Housing", "2024-11-01"])
 
-        # Simulate display
         output = StringIO()
         with open(self.filepath, 'r') as file:
             reader = csv.reader(file)
@@ -41,7 +39,7 @@ class TestExpenseFunctions(unittest.TestCase):
 
         output.seek(0)
         displayed_data = output.getvalue()
-        self.assertIn("100.00", displayed_data)  # Check if Rent expense is displayed
+        self.assertIn("100.00", displayed_data)
 
     def tearDown(self):
         if os.path.exists(self.filepath):
